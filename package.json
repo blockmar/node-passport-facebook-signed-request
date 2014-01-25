@@ -1,0 +1,30 @@
+{
+    "name": "passport-facebook-signed-request",
+    "version": "0.0.1",
+    "description": "Facebook access token and signed request authentication strategy for Passport.",
+    "author": {
+        "name": "Anders Blockmar",
+        "email": "npm@blockmar.com",
+        "url": "http://andersblockmar.com/"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/blockmar/node-passport-facebook-signed-request.git"
+    },
+    "bugs": {
+        "url": "http://github.com/blockmar/node-passport-facebook-signed-request/issues"
+    },
+    "dependencies": {
+        "pkginfo": "*",
+        "passport": "*",
+        "b64url": "*"
+    },
+    "engines": {
+        "node": ">= 0.4.0"
+    },
+    "licenses": [ {
+        "type": "MIT",
+        "url": "http://www.opensource.org/licenses/MIT"
+    } ],
+    "keywords": ["passport", "facebook", "auth", "signed request", "authentication", "identity", "access token"]
+}
